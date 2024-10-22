@@ -14,7 +14,6 @@ import {
   createBrowserRouter,
   Navigate,
   Outlet,
-  redirect,
   RouterProvider,
   useNavigate,
 } from 'react-router-dom'
